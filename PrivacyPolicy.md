@@ -1,8 +1,7 @@
-Privacy Policy for [Your Project Name]
+Privacy Policy for MyPhD
+Last Updated: 12/18/2023
 
-Last Updated: [Date]
-
-Welcome to [Your Project Name]. This privacy policy outlines our practices regarding the collection, use, and disclosure of information when you use our service. By using our service, you agree to the collection and use of information in accordance with this policy.
+Welcome to MyPhD. This privacy policy outlines our practices regarding the collection, use, and disclosure of information when you use our service. By using our service, you agree to the collection and use of information in accordance with this policy.
 
 Information Collection and Use
 
@@ -31,4 +30,3 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at [Your Contact Information].
-
